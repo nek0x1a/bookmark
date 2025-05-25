@@ -1,0 +1,20 @@
+/**
+ * Bookmark CSS 样式
+ */
+
+/* 导入 Tailwind CSS */
+@import "tailwindcss";
+
+/* Bookmark 分组网格 */
+.bookmark-grid {
+  @apply grid gap-4 justify-between grid-cols-2;
+  @apply sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6;
+}
+
+/* Bookmark 图标大小 */
+.emphasized-icon::before {
+  font-size: 2em;
+}
+.normal-icon::before {
+  font-size: 1.4em;
+}

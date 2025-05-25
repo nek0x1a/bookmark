@@ -1,0 +1,628 @@
+[
+  {
+    "name": "示例书签",
+    "emphasized": true,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "network",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "device-imac-cog",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "server-cog",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "server-cog",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "server-2",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-samsungpass",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-docker",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "heart-rate-monitor",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "database",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-graphql",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "note",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "photo",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "file-info",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "book",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "download",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "book-2",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "music",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "movie",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "device-tv",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "video-plus",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "cloud",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "magnet",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "cloud-down",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-baidu",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "tools",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "json",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "direction-sign",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "database-edit",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "article",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "rss",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "news",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "torii",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "hospital",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "bus",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "blockquote",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "blockquote",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "blockquote",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-github",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "apps",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "apps",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-windows",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-windows",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "router",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "grill-fork",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "free-rights",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "terminal-2",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-rust",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-cpp",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "magnet",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "rss",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "books",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "photo",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-zoom",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "search",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "magnet",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "magnet",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "books",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "magnet",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "mail-spark",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "regex",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "regex",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "world-share",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "world-share",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "key",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "magnet",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "magnet",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "photo-hexagon",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "photo-hexagon",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "alert-square",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-hipchat",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-openai",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "ai",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "ai",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "message-circle-search",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "ai",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "ai",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "affiliate",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "cloud-computing",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-cloudflare",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "cloud",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-openvpn",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-openvpn",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "brand-openvpn",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "script",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "hand-grab",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "hand-grab",
+        "description": "这是描述"
+      }
+    ]
+  },
+  {
+    "name": "示例书签",
+    "emphasized": false,
+    "description": "这是描述",
+    "bookmarks": [
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "favicon",
+        "description": "这是描述"
+      },
+      {
+        "name": "示例书签",
+        "url": "#",
+        "icon": "favicon",
+        "description": "这是描述"
+      }
+    ]
+  }
+]

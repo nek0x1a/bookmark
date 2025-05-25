@@ -1,0 +1,18 @@
+/**
+ * 全局 CSS 样式
+ */
+
+/* 导入 Tailwind CSS */
+@import "tailwindcss";
+
+/* 全局背景及文字颜色 */
+body {
+  @apply bg-slate-700 text-slate-100;
+}
+
+/* 页面框架响应式 */
+.page-framework {
+  @apply w-[95%] md:w-[91%] lg:w-[88%] xl:w-[86%] 2xl:w-[85%];
+  @apply md:min-w-[45.6rem] lg:min-w-[58.24rem] xl:min-w-[70.4rem] 2xl:min-w-[82.56rem];
+  @apply 2xl:max-w-[96rem] mx-auto;
+}
