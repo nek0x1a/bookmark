@@ -6,7 +6,7 @@
 
 - 响应式丝滑过度
 - 现代 flex/grid 布局
-- 轻便，仅 ~4MB
+- 轻便，仅 ~2MB
 - 不使用任何位图，~~极致线条.svg~~
 
 Demo: [https://nek0x1a.github.io/bookmark/](https://nek0x1a.github.io/bookmark/)

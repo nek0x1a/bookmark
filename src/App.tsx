@@ -71,7 +71,7 @@ function App() {
             key={group.id}
           ></BookmarkGroup>
         ))}
-      <div className="grid gap-2 grid-cols-[repeat(auto-fit,minmax(12em,1fr))]">
+      <div className="grid gap-2 grid-cols-[repeat(auto-fill,minmax(12em,1fr))]">
         {bookmarkGroups
           .filter((group) => !group.emphasized)
           .map((group) => (
