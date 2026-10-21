@@ -10,6 +10,8 @@ jobs:
   release:
     name: 自动发布
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,6 +26,6 @@ jobs:
         run: zip -r dist.zip dist
 
       - name: 发布 Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: dist.zip
