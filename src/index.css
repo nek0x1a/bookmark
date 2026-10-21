@@ -1,0 +1,13 @@
+/* 应用主题色令牌、深色主题映射和页面基础布局。 */
+@import "tailwindcss";
+
+html,
+body {
+  @apply bg-slate-700;
+  @apply text-slate-100;
+}
+
+.page-framework {
+  width: clamp(48rem, 92%, 96rem);
+  margin: 2rem auto;
+}

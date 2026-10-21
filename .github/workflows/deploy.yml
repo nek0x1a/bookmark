@@ -1,0 +1,49 @@
+name: 自动部署页面
+
+on:
+  # main 分支被推送或合并 pr 时触发
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: 打包
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: oven-sh/setup-bun@v2
+
+      - name: 安装依赖
+        run: bun install
+      - name: 构建页面
+        run: bun run tsc -b && bun run vite build --base=/bookmark
+
+      - name: 上传构建文件
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    name: 部署到 GitHub Pages
+    needs: build
+
+    # 需要对 GITHUB_TOKEN 授予进行 Pages 部署所需的权限
+    permissions:
+      # 用于部署页面
+      pages: write
+      # 验证部署是否来自正确来源
+      id-token: write
+
+    # github-pages 环境
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: 部署
+        id: deployment
+        uses: actions/deploy-pages@v4

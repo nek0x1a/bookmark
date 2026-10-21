@@ -1,0 +1,26 @@
+name: 测试打包
+
+on:
+  # 创建向 main 分支合并的 pr 时触发
+  pull_request:
+    branches:
+      - main
+  # dev 分支被推送或合并 pr 时触发
+  push:
+    branches:
+      - dev
+
+jobs:
+  build:
+    name: 打包
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: oven-sh/setup-bun@v2
+
+      - name: 安装依赖
+        run: bun install
+      - name: 构建页面
+        run: bun run build

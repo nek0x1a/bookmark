@@ -1,0 +1,29 @@
+name: 自动发布
+
+on:
+  # 发布 tag 并以 'v' 开头时触发
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    name: 自动发布
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: oven-sh/setup-bun@v2
+
+      - name: 安装依赖
+        run: bun install
+      - name: 构建页面
+        run: bun run build
+      - name: 创建压缩包
+        run: zip -r dist.zip dist
+
+      - name: 发布 Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist.zip
